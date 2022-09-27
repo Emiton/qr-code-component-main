@@ -1,6 +1,7 @@
 body {
   background-color: hsl(212, 45%, 89%);
 }
+
 .card {
   margin: auto;
   margin-bottom: 15px;
@@ -38,12 +39,6 @@ h2 {
   color: hsl(220, 15%, 55%);
   text-align: center;
 }
-
-
-
-
-
-
 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
